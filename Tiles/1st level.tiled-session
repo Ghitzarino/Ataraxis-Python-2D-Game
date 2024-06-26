@@ -1,0 +1,86 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map 1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "map 1.csv": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 596.5,
+                "y": 464.5
+            }
+        },
+        "map 1.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 687.5,
+                "y": 479.5
+            }
+        },
+        "map 1.tmj": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 719.5,
+                "y": 479.5
+            }
+        },
+        "map 1.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 274.8333333333333,
+                "y": 477.83333333333326
+            }
+        },
+        "skeleton_v1_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "tileset.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "vampire_v1_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/gheor/Desktop/soundboard",
+    "last.imagePath": "C:/Users/gheor/Desktop/Proiect IA4/1 - level/graphics/2D Pixel Dungeon Asset Pack/Character_animation/monsters_idle/skull/v1",
+    "map.height": 100,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 100,
+    "openFiles": [
+        "tileset.tsx",
+        "map 1.tmx",
+        "skeleton_v1_1.tsx",
+        "vampire_v1_1.tsx"
+    ],
+    "project": "1st level.tiled-project",
+    "recentFiles": [
+        "tileset.tsx",
+        "vampire_v1_1.tsx",
+        "skeleton_v1_1.tsx",
+        "map 1.tmx",
+        "map 1.json",
+        "map 1.csv",
+        "map 1.tmj"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
